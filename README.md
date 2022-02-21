@@ -1,4 +1,4 @@
-# worksheets-examples
+# Examples of Teaching Materials 📓📒
 
 Examples of learning activities that were developed for teh following courses:
 
